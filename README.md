@@ -67,8 +67,3 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Elton-Asantos/Elton-Asantos/output/snake.svg" alt="Snake animation" />
-
-###
