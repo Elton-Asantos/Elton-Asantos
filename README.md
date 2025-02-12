@@ -7,18 +7,35 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
-
-###
-
-<p align="left">Estudante de Análise e Desenvolvimento de Sistemas na FAMEESP. Atuamente estudo Desenvolvimento Web Java no Instituto PROA. Focando em ferramentas como Javascript e React.js. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.</p>
-
 ###
 
 <h2 align="left">Sobre mim</h2>
+<p align="left">💻 Desenvolvedor Full Stack | Técnico de TI JR | Entusiasta de IA<br> </p>
+<br> 
+<p>Estudante de Análise e Desenvolvimento de Sistemas na FAMEESP, com experiência prática em desenvolvimento web, backend e inteligência artificial. Atualmente, aprimoro minhas habilidades em Java, JavaScript, React.js, C#, ASP.NET, Cloud Computing e IA. Sou apaixonado por tecnologia e estou sempre em busca de novos desafios para crescer e inovar na área.</p>
 
-###
 
-<p align="left">💻​ Desenvolvimento Full Stack<br>📚 Estudante de Análise e desenvolvimento de sistemas<br>🎯 Meus objetivos é aprimorar cada cada vez mais em Javascript, React.js e Java<br>🎲 Gosto de basquete e qualquer assunto relacionado a IA Generativa.</p>
+## 🚀 Habilidades e Tecnologias
+
+- **✔ Desenvolvimento Web:** Java, JavaScript, React.js, HTML, CSS  
+- **✔ Banco de Dados:** MySQL, Firebase  
+- **✔ Cloud & DevOps:** Google Cloud  
+- **✔ Metodologias Ágeis:** Scrum  
+- **✔ Machine Learning & IA Generativa**
+
+  ## 🎯 Objetivos
+
+- 🔹 Aprofundar meus conhecimentos em **JavaScript, React.js, Java e Cloud Computing**  
+- 🔹 Explorar mais sobre **IA Generativa e Machine Learning**  
+- 🔹 Criar projetos inovadores que impactem positivamente a sociedade  
+
+## 🎲 Interesses
+
+🏀 **Basquete** | 🤖 **Inteligência Artificial** | 📈 **Inovação**
+
+
+<br>
+<br>
 
 ###
 
