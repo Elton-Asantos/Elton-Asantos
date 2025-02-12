@@ -17,8 +17,8 @@
 
 ## 🚀 Habilidades e Tecnologias
 
-- **✔ Desenvolvimento Web:** Java, JavaScript, React.js, HTML, CSS  
-- **✔ Banco de Dados:** MySQL, Firebase  
+- **✔ Desenvolvimento Web:** Java, JavaScript, React.js, HTML, CSS, C#, ASP.NET
+- **✔ Banco de Dados:** MySQL, Firebase, SQL SERVER  
 - **✔ Cloud & DevOps:** Google Cloud  
 - **✔ Metodologias Ágeis:** Scrum  
 - **✔ Machine Learning & IA Generativa**
